@@ -6,6 +6,12 @@ $obj=new textbox();
 $obj->id='name';            // assigning ID
 $obj->get_textbox();  
 
-This will include all basic functions in default and user can also change it's default functionality.
+Class "textbox" contains basic functionality by default. Like highlight border of textbox on mouseover.
+
+
+-----------------------------Installation guide-------------------
+
+To see demo, copy all files on php server and open vlib_example.php
+------------------------------------------------------------------
 
       
